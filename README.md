@@ -25,3 +25,13 @@ chmod 777 x20
 lalu tinggal kalian jalankan tools nya
 
 ./x20
+
+Di sini ada beberapa pilihan
+
+1. Auto Dump With list = Kalian bisa dump dengan list site kalian
+
+2. Auto Dump With Dork = Kalian bisa dump dengan menggunakan dork
+
+3. Auto Dorking = Kalian Bisa Dorking site Melalui tools ini
+
+Nb: Kalau Menggunakan Dengan list, Kalian Masukkan Saja List Kalian Di file list.txt
