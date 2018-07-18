@@ -8,6 +8,8 @@ Jika kalian Belum Mempunyai Sqlmap, Kalian Harus Download Dulu Ya Tod :v
 
 Dan Clone Juga Script Ini
 
+git clone https://github.com/Yoshieichiro01/X20-Dumper.git
+
 Terus Simpan Dir Sqlmap Tersebut Dalam 1 Dir Script Ini, Ngerti Kan Maksud Gw. Loe Kan Heker Masa Gak Tau :v
 
 Jadi Nya Kyk Gini
